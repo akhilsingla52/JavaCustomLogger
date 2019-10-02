@@ -1,0 +1,7 @@
+### Basic JAVA ###
+.gradle
+.settings
+bin
+build
+.classpath
+.project
